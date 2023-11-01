@@ -83,25 +83,25 @@ export const skills = [
 export const proyects = [
   {
     id: 1,
-    image: "/Temperley1.jpg",
+    image: "./Temperley1.jpg",
     name: "proyect 1",
     description: "lorem ipsum dolor sit amet, consectetur adip",
   },
   {
     id: 2,
-    image: "/Temperley1.jpg",
+    image: "./Temperley1.jpg",
     name: "proyect 2",
     description: "lorem ipsum dolor sit amet",
   },
   {
     id: 3,
-    image: "/Temperley1.jpg",
+    image: "./Temperley1.jpg",
     name: "proyect 3",
     description: "lorem ipsum dolor sit amet",
   },
   {
     id: 4,
-    image: "/Temperley1.jpg",
+    image: "./Temperley1.jpg",
     name: "proyect 4",
     description: "lorem ipsum",
   },
