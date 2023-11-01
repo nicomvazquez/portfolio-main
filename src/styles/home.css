@@ -1,0 +1,26 @@
+.home-page {
+  padding: 90px 10% 90px 10%;
+  background-color: #1b1b1b;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.home-page .content-title {
+  padding-top: 70px;
+  font-size: 40px;
+}
+
+.home-page .button-container button {
+  font-size: 25px;
+  padding: 15px;
+  background: #0b0e24;
+  border-radius: 10px;
+  border: none;
+  transition: .3s;
+}
+
+.home-page .button-container button:hover{
+  background-color: #050613;
+  transition: .3s linear;
+}

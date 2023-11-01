@@ -1,0 +1,34 @@
+.proyect-card {
+  width: 300px;
+  background-color: #111111;
+  border-radius: 10px;
+}
+
+.proyect-card .image-content img {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.proyect-card .card-content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.proyect-card .card-content .containers-buttons {
+  display: flex;
+  gap: 20px;
+  
+}
+
+.proyect-card .card-content .containers-buttons a {
+  font-size: 20px;
+  text-decoration: none !important;
+  transition: .2s;
+}
+
+.proyect-card .card-content .containers-buttons a :hover{
+    color: #00d3d3;
+    transition: .2s linear;
+}

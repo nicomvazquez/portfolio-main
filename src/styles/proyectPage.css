@@ -1,0 +1,18 @@
+.proyect-page{
+    padding: 90px 10% 90px 10%;
+    background-color: #1b1b1b;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.proyect-page .content-title h1{
+    font-size: 50px;
+}
+
+.proyects-content{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+
+}
