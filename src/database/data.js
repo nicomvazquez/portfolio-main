@@ -52,31 +52,36 @@ export const skills = [
     id: 8,
     icon: "logo-electron",
     name: "Electron.js",
-    description: "Framework para desarrollar aplicaciones de escritorio utilizando javascript, tecnologia muy usada en el mercado y apps como vs code, discord, etc, estan hechas con",
+    description:
+      "Framework para desarrollar aplicaciones de escritorio utilizando javascript, tecnologia muy usada en el mercado y apps como vs code, discord, etc, estan hechas con",
   },
   {
     id: 9,
     icon: "logo-python",
     name: "Python",
-    description: "El lenguaje de programacion mas utilizado y demandado. Creacion de apps de servidor, de escritrio y webs, tambien utilizado en el desarrollo de redes neuronales e inteligencias artificiales",
+    description:
+      "El lenguaje de programacion mas utilizado y demandado. Creacion de apps de servidor, de escritrio y webs, tambien utilizado en el desarrollo de redes neuronales e inteligencias artificiales",
   },
   {
     id: 10,
     icon: "logo-python",
     name: "Django",
-    description: "Framework de python que nos permite desarrollas aplicaciones webs con un enfoque diferente al de react",
+    description:
+      "Framework de python que nos permite desarrollas aplicaciones webs con un enfoque diferente al de react",
   },
   {
     id: 11,
     icon: "analytics-outline",
     name: "MySql",
-    description: "Diceño y desarrollo de base de datos relacionales principalmente en mysql, aunque tambien puede ser en otro sistema como postgres",
+    description:
+      "Diceño y desarrollo de base de datos relacionales principalmente en mysql, aunque tambien puede ser en otro sistema como postgres",
   },
   {
     id: 12,
     icon: "analytics-outline",
     name: "MongoDB",
-    description: "Diceño y desarrollo de base de datos no relacionales en mongodb",
+    description:
+      "Diceño y desarrollo de base de datos no relacionales en mongodb",
   },
 ];
 
@@ -84,27 +89,19 @@ export const proyects = [
   {
     id: 1,
     image: "./react-localstorage-taskapp.png",
-    name: "proyect 1",
-    description: "lorem ipsum dolor sit amet, consectetur adip",
+    name: "react-localstorage",
+    description:
+      "aplicacion web front que pone en practica los conceptos de localstorage",
     git: "https://github.com/nicomvazquez/react-localstorage-taskapp",
-    vista: "https://nicomvazquez.github.io/react-localstorage-taskapp/"
+    vista: "https://nicomvazquez.github.io/react-localstorage-taskapp/",
   },
   {
     id: 2,
-    image: "./Temperley1.jpg",
-    name: "proyect 2",
-    description: "lorem ipsum dolor sit amet",
-  },
-  {
-    id: 3,
-    image: "./Temperley1.jpg",
-    name: "proyect 3",
-    description: "lorem ipsum dolor sit amet",
-  },
-  {
-    id: 4,
-    image: "./Temperley1.jpg",
-    name: "proyect 4",
-    description: "lorem ipsum",
-  },
+    image: "./darkmode-tailwind.png",
+    name: "darkmode-tailwind",
+    description:
+      "simple aplicacion para poner en practica tailwind.css para hacer un darkmode tomado inicialmente el tema del dispositivo",
+    git: "https://github.com/nicomvazquez/react-darkmode-tailwind",
+    vista: "https://nicomvazquez.github.io/react-darkmode-tailwind/"
+  }
 ];
