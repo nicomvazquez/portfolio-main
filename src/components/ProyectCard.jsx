@@ -15,8 +15,8 @@ function ProyectCard({ proyect }) {
           <p>{proyect.description}</p>
         </div>
         <div className="containers-buttons">
-          <a href=""><h4>vista</h4></a>
-          <a href=""><h4>code</h4></a>
+          <a href={proyect.vista}><h4>vista</h4></a>
+          <a href={proyect.git}><h4>code</h4></a>
         </div>
       </div>
     </div>

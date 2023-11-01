@@ -83,9 +83,11 @@ export const skills = [
 export const proyects = [
   {
     id: 1,
-    image: "./Temperley1.jpg",
+    image: "./react-localstorage-taskapp.png",
     name: "proyect 1",
     description: "lorem ipsum dolor sit amet, consectetur adip",
+    git: "https://github.com/nicomvazquez/react-localstorage-taskapp",
+    vista: "https://nicomvazquez.github.io/react-localstorage-taskapp/"
   },
   {
     id: 2,
